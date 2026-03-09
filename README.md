@@ -29,8 +29,7 @@ As informações são armazenadas em um dicionário Python, permitindo posterior
 
 - Python
 
-- Requests
-
-- BeautifulSoup (bs4)
-
-- Regex (re)
+* Bibliotecas:
+  - Requests
+  - BeautifulSoup (bs4)
+  - Regex (re)

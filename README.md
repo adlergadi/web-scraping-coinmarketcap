@@ -1,11 +1,11 @@
 # Miniprojeto - Web Scraping de Criptomoedas
 
-## Descrição do Projeto
+## Descrição
 
 Script em Python para coleta de dados de criptomoedas utilizando técnicas de web scraping.
 O programa acessa o site CoinMarketCap (https://coinmarketcap.com/) e extrai informações relevantes sobre as principais criptomoedas listadas na página inicial.
 
-## Dados coletados:
+## Dados coletados
 
 - Nome da criptomoeda
 
